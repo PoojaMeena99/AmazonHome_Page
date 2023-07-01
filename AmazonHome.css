@@ -1,0 +1,367 @@
+*{
+	box-sizing:border-box;
+}
+body{
+  margin:0px
+    }
+    
+.row_one{
+	height:60px;
+	background:#0B1014;
+	margin:0px;
+	font-family:Arial,sans-serif;
+	}
+	
+.col1{ 
+    height:100%;
+    float:left;
+	}
+	
+.logo{
+    width:113px;
+    margin-left:15px;
+    }
+    
+.location{
+    width:88.64px;
+    height:100%;
+    float:left;
+    }
+    
+ .div_one{
+     color:white;
+     font-size:13px;
+     margin:15px 0px 0px 30px;
+    }
+    
+ .div_two{
+     color:white;
+     font-size:13px;
+     margin:0px 0px 5px 30px;
+   
+}           
+.loc_image{
+    width:30px;
+    height:25px;
+    float:left;
+    margin-top:25px;
+    }
+    
+ .box_style{
+    height:100%;
+    width:100%;
+    background-color:#EFEFEF;
+    border-radius:7px 0px 0px 7px;"
+ }               
+.searchbox{
+     width:1172.5px;
+     margin:0px 18px;
+     } 
+     
+.box_one{ 
+    width:103.73px;
+    height:40px;
+    float:left;
+    margin-top:8px;
+    }
+    
+.box_two{
+    width:1016.77px;
+    height:40px;
+    float:left;
+    margin-top:8px;
+    background-color:white;
+    }
+    
+.box_three{
+    width:45px;
+    height:40px;
+    float:left;
+    margin-top:8px;
+    }
+     
+        
+.lenguage{
+    width:74.38px;
+    margin-left:1px;
+    }
+    
+.len{
+    height:15px;
+    width:25px;
+    margin-top:25px;
+    float:left;
+    }
+    
+.england{
+    display:inline-block;
+    color:white;
+    margin-top:6px;
+    }
+    
+.account{
+    width:131.531px;
+    margin-left:6px;
+    }
+    
+ .signin{
+    height:auto;
+    width:auto;
+    color:white;
+    font-size:13px;
+    margin:12px 0px 0px 11px;
+    } 
+    
+.orders{
+    height:auto;
+    width:auto;
+    color:white;
+    font-size:13px;
+    margin:12px 0px 0px 11px;
+    } 
+        
+.order{
+    width:76.95px;
+    margin-left:6px;
+    }
+    
+.cart{
+    width:84px;
+    margin-left:15px;
+    float:left;
+    }
+    
+.cart2{
+    margin:13px 0px 0px 2px;
+    width:36px;
+    height:32px;
+    float:left;
+    }
+    
+.cart3{
+      color:white;
+      float:left;
+      margin:7px 0px 0px 5px;
+      }  
+       
+.row_two{
+	height:39px;
+	background:#202A38;
+	font-family:Arial,sans-serif;
+	}
+	
+.col2{ 
+    height:100%;
+    float:left;
+    line-height:39px;
+    color:white;
+    font-size:14px;
+    text-align:center;
+	}	
+	
+.all{
+    width:58.42px;
+    margin-left:15px;
+    margin-right:3px;
+    }
+    
+    
+.menu{
+    height:25px;
+    width:25px;
+    float:left;
+    margin-top:5px;
+    margin-left:5px;
+    line-height:26px;
+    } 
+    
+.menu2{
+    color:white;
+    margin-left:25px;
+    } 
+     	
+.deals{
+  
+    padding:0px 12px 0px 12px;
+    }
+    
+.survice{
+   padding:0px 12px 0px 12px;
+    }
+    
+.registry{
+    padding:0px 12px 0px 12px;
+    }
+    
+.gift{
+    padding:0px 12px 0px 12px;
+    }
+    
+.sell{
+   padding:0px 12px 0px 12px;
+    }
+    
+.shop_deal{
+    float:right;
+    padding:0px 12px 0px 12px;
+    }  
+     
+.containt{
+    height:auto;
+    width:auto;
+    padding:14px 18px 18px 18px;
+    margin:auto;
+    } 
+    
+.row_three{
+    width:1500px;
+    height:300px;
+    margin:0px auto 20px auto;
+    } 
+    
+.row{
+    width:1500px;
+    height:360px;
+    margin:0px auto 20px auto;  
+    } 
+.write{
+    color:black;
+    }    
+         
+.col{
+    width:360px;
+    height:100%;
+    float:left;
+    margin-right:20px;
+    }
+ 
+ .col4{
+    width:360px;
+    height:100%;
+    float:left;
+    }
+ 
+ .div_one{
+     color:white;
+     font-size:13px;
+     margin:15px 0px 0px 30px;
+    }
+    
+ .div_two{
+     color:white;
+     font-size:13px;
+     margin:0px 0px 5px 30px;
+        }
+            
+.loc_image{
+    width:30px;
+    height:25px;
+    float:left;
+    margin-top:20px;
+    }
+    
+.row_eight{
+    width:1500px;
+    height:264.86px;
+    margin:0px auto 0px auto;
+       }
+            
+.footerone{
+    height:49px;
+    width:1833px;
+    font-family:sans-serif;
+    font-size:13px;
+    background-color:#37475A;
+    color:white;
+    text-align:center;
+    line-height:49px;
+    }  
+    
+.footertwo{
+    height:550px;
+    width:1833px;
+    background-color:#232F3F;
+    
+    }
+ .insidebox{
+    height:370px;
+    width:1100px;
+    margin:0px auto 0px 450px;
+    }
+       
+.div{
+     list-style:none;   
+     margin-top:55px;   
+     float:left;
+     font-family:sans-serif;
+     color:#FFFFFF;
+     font-size:13px;
+     text-align:left;
+     }     
+.listone{
+    height:318.36px;
+    padding-left:10px;
+    padding-right:10px;
+    float:left;
+    line-height:1.9;
+    }
+.listtwo{
+    height:318.316px;
+    padding:0px 10px 0px 0px;
+    float:left;
+    line-height:1.9;
+    margin-left:55px;
+    } 
+.listthree{
+    height:318.316px;
+    padding:0px 10px 0px 0px;
+     float:left;
+     line-height:1.9;
+     margin-left:55px;
+    }
+.listfour{
+    height:318.316px;
+    padding:0px 10px 0px 0px;
+     float:left;
+     line-height:1.9;
+     margin-left:55px;
+    }   
+.list{
+    list-style:none;
+    }
+.heading{
+    font-size:16px;
+    }    
+                  
+            
+            
+            
+            
+            
+            
+            
+            ;
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+        
+
+        
